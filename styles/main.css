@@ -1,0 +1,21 @@
+header{
+	font-size: 80px;
+	 text-transform: uppercase;
+	}
+	img {
+		max-width: 95%;
+	}
+	 .content {
+	 	column-count: 3;
+	 }
+	 .head {
+     text-align: center;position: relative;
+	}
+
+	 .subhead {
+	 	border-top: 2px solid #000000 ;
+	 	border-bottom: 2px solid #000000 ;	 	
+	 	padding: 12px 0 12px 0;
+	 	text-transform: uppercase;
+	 }
+	 
